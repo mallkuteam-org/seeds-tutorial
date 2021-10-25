@@ -1,2 +1,3 @@
 # seeds-tutorial
-Scrum Board tutorial
+- Scrum Board tutorial
+- Git tutorial
