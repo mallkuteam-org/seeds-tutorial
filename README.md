@@ -1,6 +1,6 @@
 # Participantes de Mallku
 - Veronica Shoijet
 - Martin Nievas
-- Facundo Esquivel Fagiani
+- Facundo Esquivel Fagiani / facufref@gmail.com
 - Belen Maciel
 
