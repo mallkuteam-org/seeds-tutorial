@@ -1,6 +1,7 @@
 # seeds-tutorial
 - Scrum Board tutorial
 - Git tutorial
-
--Veronica Shoijet
+- Veronica Shoijet
+- Martin Nievas
+- Facundo Esquivel Fagiani
 
