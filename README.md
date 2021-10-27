@@ -1,5 +1,6 @@
-# seeds-tutorial
-- Scrum Board tutorial
-- Git tutorial
-
+# Participantes de Mallku
+- Veronica Shoijet
+- Martin Nievas
+- Facundo Esquivel Fagiani
 - Belen Maciel
+
