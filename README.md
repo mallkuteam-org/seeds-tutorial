@@ -1,4 +1,3 @@
-# seeds-tutorial
-- Scrum Board tutorial
-- Git tutorial
-- su nombre@la máqina de la literabilidad!
+- Martin Nievas
+- Facundo Esquivel Fagiani
+>>>>>>> 23711a4530360160cb1c5001580f2e97b013498c
