@@ -11,7 +11,12 @@ def main():
      'asientos': 2,
      'puertas': 2}
 
-    autos = [focus, corsa]
+    amarok = {'marca': 'Volkswagen',
+             'modelo': 'amarok',
+             'year': 2020,
+             'asientos': 2,
+             'puertas': 2}
+    autos = [focus, corsa, amarok]
 
     for auto in autos:
         print(auto['marca'])
