@@ -1,18 +1,20 @@
+def main():
+    focus = {'marca': 'Ford',
+     'modelo': 'Focus',
+     'year': 2017,
+     'asientos': 4,
+     'puertas': 4}
 
+    corsa = {'marca': 'Chevrolet',
+     'modelo': 'Corsa',
+     'year': 2017,
+     'asientos': 2,
+     'puertas': 2}
 
-focus = {'marca': 'Ford',
- 'modelo': 'Focus',
- 'year': 2017,
- 'asientos': 4,
- 'puertas': 4}
+    autos = [focus, corsa]
 
-corsa = {'marca': 'Chevrolet',
- 'modelo': 'Corsa',
- 'year': 2017,
- 'asientos': 2,
- 'puertas': 2}
+    for auto in autos:
+        print(auto['marca'])
 
-autos = [focus, corsa]
-
-for auto in autos:
-    print(auto['marca'])
+if  __name__ == '__main__':
+    main()
